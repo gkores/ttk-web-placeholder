@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Torslanda Tennisklubb</title>
+    <link href="https://gkores.github.io/ttk-web-placeholder/feed.xml" rel="self" />
+    <link href="https://gkores.github.io/ttk-web-placeholder" />
+    <updated>2023-01-16T23:19:37+01:00</updated>
+    <author>
+        <name>Webmaster</name>
+    </author>
+    <id>https://gkores.github.io/ttk-web-placeholder</id>
+
+    <entry>
+        <title>Ny sida under uppbyggnad</title>
+        <author>
+            <name>Webmaster</name>
+        </author>
+        <link href="https://gkores.github.io/ttk-web-placeholder/ny-sida-under-uppbyggnad.html"/>
+        <id>https://gkores.github.io/ttk-web-placeholder/ny-sida-under-uppbyggnad.html</id>
+            <category term="nyheter"/>
+
+        <updated>2023-01-16T23:19:37+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Den 1:a Januari slutade vår gamla hemsida hos IdrottOnline fungera, då de beslutat att avveckla alla IdrottOnline-hemsidor. Som ni kanske märkt har det tyvärr varit ett litet glapp då vår hemsida helt varit otillgänglig. Arbetet med den nya sidan är dock igång och vi hoppas&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Den 1:a Januari slutade vår gamla hemsida hos IdrottOnline fungera, då de beslutat att avveckla alla IdrottOnline-hemsidor.</p>
+<p>Som ni kanske märkt har det tyvärr varit ett litet glapp då vår hemsida helt varit otillgänglig. Arbetet med den nya sidan är dock igång och vi hoppas snart kunna erbjuda all information igen. Men denna gången i lite ny tappning!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

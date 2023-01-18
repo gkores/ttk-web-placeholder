@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gkores.github.io/ttk-web-placeholder/sitemap.xml
