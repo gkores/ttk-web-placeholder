@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Torslanda Tennisklubb",
     "description": "",
-    "home_page_url": "https://gkores.github.io/ttk-web-placeholder",
-    "feed_url": "https://gkores.github.io/ttk-web-placeholder/feed.json",
+    "home_page_url": "https://ttk-web-placeholder.pages.dev",
+    "feed_url": "https://ttk-web-placeholder.pages.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "Webmaster"
     },
     "items": [
         {
-            "id": "https://gkores.github.io/ttk-web-placeholder/ny-sida-under-uppbyggnad.html",
-            "url": "https://gkores.github.io/ttk-web-placeholder/ny-sida-under-uppbyggnad.html",
+            "id": "https://ttk-web-placeholder.pages.dev/ny-sida-under-uppbyggnad.html",
+            "url": "https://ttk-web-placeholder.pages.dev/ny-sida-under-uppbyggnad.html",
             "title": "Ny sida under uppbyggnad",
             "summary": "Den 1:a Januari slutade vår gamla hemsida hos IdrottOnline fungera, då de beslutat att avveckla alla IdrottOnline-hemsidor. Som ni kanske märkt har det tyvärr varit ett litet glapp då vår hemsida helt varit otillgänglig. Arbetet med den nya sidan är dock igång och vi hoppas&hellip;",
             "content_html": "<p>Den 1:a Januari slutade vår gamla hemsida hos IdrottOnline fungera, då de beslutat att avveckla alla IdrottOnline-hemsidor.</p>\n<p>Som ni kanske märkt har det tyvärr varit ett litet glapp då vår hemsida helt varit otillgänglig. Arbetet med den nya sidan är dock igång och vi hoppas snart kunna erbjuda all information igen. Men denna gången i lite ny tappning!</p>",
