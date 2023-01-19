@@ -3,12 +3,32 @@
     <title>Torslanda Tennisklubb</title>
     <link href="https://ttk-web-placeholder.pages.dev/feed.xml" rel="self" />
     <link href="https://ttk-web-placeholder.pages.dev" />
-    <updated>2023-01-16T23:19:37+01:00</updated>
+    <updated>2023-01-19T12:18:56+01:00</updated>
     <author>
         <name>Webmaster</name>
     </author>
     <id>https://ttk-web-placeholder.pages.dev</id>
 
+    <entry>
+        <title>Boka bana på Matchi</title>
+        <author>
+            <name>Webmaster</name>
+        </author>
+        <link href="https://ttk-web-placeholder.pages.dev/boka-bana-pa-matchi.html"/>
+        <id>https://ttk-web-placeholder.pages.dev/boka-bana-pa-matchi.html</id>
+
+        <updated>2023-01-19T12:18:56+01:00</updated>
+            <summary>
+                <![CDATA[
+                    länk
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>länk</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ny sida under uppbyggnad</title>
         <author>
